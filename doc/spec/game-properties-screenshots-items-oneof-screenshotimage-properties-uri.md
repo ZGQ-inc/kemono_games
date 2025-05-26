@@ -1,3 +1,0 @@
-## uri Type
-
-`string`

@@ -1,3 +1,0 @@
-## brief-description Type
-
-`string`

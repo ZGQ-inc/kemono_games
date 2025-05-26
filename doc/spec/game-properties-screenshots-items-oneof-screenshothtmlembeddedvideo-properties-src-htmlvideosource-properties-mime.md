@@ -1,3 +1,0 @@
-## mime Type
-
-`string`

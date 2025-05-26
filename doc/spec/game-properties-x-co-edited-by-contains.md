@@ -1,3 +1,0 @@
-## contains Type
-
-`string`

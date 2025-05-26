@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /*/search.html?*
-Disallow: /*/list-*.html
-Disallow: /classic-ui/
-Disallow: /cdn-cgi/
-
-Sitemap: https://furrygames.top/sitemap2.xml

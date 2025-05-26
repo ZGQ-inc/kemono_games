@@ -1,3 +1,0 @@
-## replaced-by Type
-
-`string`

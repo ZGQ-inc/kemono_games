@@ -1,3 +1,0 @@
-## expuged Type
-
-`boolean`
